@@ -1,0 +1,23 @@
+{
+  "name": "testopenshiftproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chanyaaa/TestOpenshiftProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chanyaaa/TestOpenshiftProject/issues"
+  },
+  "homepage": "https://github.com/Chanyaaa/TestOpenshiftProject#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
